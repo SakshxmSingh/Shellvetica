@@ -1,4 +1,4 @@
-# Assignment 02 - Group 50 - Shellvetica: A SimpleShell in C
+# Shellvetica: A SimpleShell in C
 Instructor: Vivek Kumar </br>
 Submitted by:
 - Saksham Singh - 2022434
